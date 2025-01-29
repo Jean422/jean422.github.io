@@ -1,5 +1,7 @@
 ---
 title: "Jean's Website"
+resources:
+    - .nojekyll
 ---
 
 This is a Quarto website.
