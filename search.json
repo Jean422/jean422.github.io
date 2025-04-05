@@ -1,16 +1,142 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Jean’s Resume",
     "section": "",
-    "text": "About this site"
+    "text": "Download My Resume (PDF)"
+  },
+  {
+    "objectID": "resume.html#download-resume-pdf",
+    "href": "resume.html#download-resume-pdf",
+    "title": "Jean’s Resume",
+    "section": "",
+    "text": "Download My Resume (PDF)"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Jean’s Resume",
+    "section": "🎓 Education",
+    "text": "🎓 Education\nBoston University\nM.S. in Applied Business Analytics · GPA: 3.68\n📍 Boston, MA · Sep 2024 – Present\nMissouri State University\nB.S. in General Business\n📍 Springfield, MO · Graduated Jun 2024\n- Scholarship Recipient (2021)"
+  },
+  {
+    "objectID": "resume.html#data-analytics-experience",
+    "href": "resume.html#data-analytics-experience",
+    "title": "Jean’s Resume",
+    "section": "💼 Data Analytics Experience",
+    "text": "💼 Data Analytics Experience\nUnilever – Quality Data Detection Intern\n📍 Hefei, China · Jun 2023 – Aug 2023\n- Used SQL to analyze and categorize product data for automating supply chain processes.\n- Leveraged Python (Pandas, NumPy) to analyze experimental composition data and created standardized qualification metrics.\nBank of Communications – Marketing Management Intern\n📍 Hefei, China · Jul 2022 – Aug 2022\n- Analyzed customer data using Excel Power Query.\n- Contributed to the ETC project leveraging RFID and plate recognition tech for smart tolling.\niFLYTEK Co., Ltd. – Data Analysis Specialist Intern\n📍 Hefei, China · Jun 2021 – Aug 2021\n- Conducted market research and created Power BI reports from R Studio visualizations.\n- Supported new product development with AWS-based data analytics."
+  },
+  {
+    "objectID": "resume.html#academic-project",
+    "href": "resume.html#academic-project",
+    "title": "Jean’s Resume",
+    "section": "📚 Academic Project",
+    "text": "📚 Academic Project\nVR/AR New History Teaching Pioneers\nNov 2022 – Jun 2023\n- Won 2nd Prize in 9th ‘Internet+’ Innovation Competition.\n- Published a paper on VR tourism in Tourism and Photography (2023).\n- Used R for clustering analysis and Excel for project tracking and user feedback."
+  },
+  {
+    "objectID": "resume.html#leadership-involvement",
+    "href": "resume.html#leadership-involvement",
+    "title": "Jean’s Resume",
+    "section": "👩‍🏫 Leadership & Involvement",
+    "text": "👩‍🏫 Leadership & Involvement\nTeaching Assistant\nBoston University · Feb 2025 – Present\n- TA for Quantitative & Qualitative Decision-Making.\n- Supported students with grading, office hours, and simulation-based research.\nBUCSSA – Marketing Board Member\nOct 2024 – Present\n- Secured $2,000+ sponsorship for flagship events (800+ attendees).\n- Led social media campaigns reaching 5,000+ users and grew followers by 30%."
+  },
+  {
+    "objectID": "resume.html#skills-tools",
+    "href": "resume.html#skills-tools",
+    "title": "Jean’s Resume",
+    "section": "🔧 Skills & Tools",
+    "text": "🔧 Skills & Tools\n\nLanguages: Python, SQL, R\n\nTools: Excel, PowerPoint, Tableau, Power BI, AWS, MATLAB, CapCut\n\nTech: Machine Learning, Business Intelligence, Data Visualization"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always open to connecting with professionals, collaborators, and recruiters.\nFeel free to reach out to me through any of the channels below:\n\n\n📞 Phone: (850)-888-0422\n\n📧 Email: cuijinyi@bu.edu\n\n💼 LinkedIn: linkedin.com/in/jinyi-cui-3ab06833a\n\n\n🙋🏻‍♀️ Looking forward to hearing from you! Whether you have a project idea, a job opportunity, or just want to say hi — I’m always happy to chat.\n📍 Currently Based in: Boston, MA"
+  },
+  {
+    "objectID": "contact.html#lets-connect",
+    "href": "contact.html#lets-connect",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always open to connecting with professionals, collaborators, and recruiters.\nFeel free to reach out to me through any of the channels below:\n\n\n📞 Phone: (850)-888-0422\n\n📧 Email: cuijinyi@bu.edu\n\n💼 LinkedIn: linkedin.com/in/jinyi-cui-3ab06833a\n\n\n🙋🏻‍♀️ Looking forward to hearing from you! Whether you have a project idea, a job opportunity, or just want to say hi — I’m always happy to chat.\n📍 Currently Based in: Boston, MA"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jean’s Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hi, I’m Jean Cui, a Business Analyst passionate about transforming data into strategic insights.\nI’m currently pursuing a Master of Science in Applied Business Analytics at Boston University, where I focus on solving real-world problems through data storytelling, machine learning, and business strategy.\n\n\n\n\n\n\n\nMissouri State UniversityBachelor of Science in General Business\n\n\n\n\n\nBoston UniversityMS in Applied Business Analytics\n\n\n\n\n📊 Data Analytics & Visualization\nPython, R, SQL, Tableau, Power BI\n\n🧠 Strategic Thinking & Business Insight\nCombining analysis with market understanding\n\n⚙️ Process Optimization & Automation\nFrom Excel Power Query to cloud-based pipelines\n\n🌍 Cross-Cultural Collaboration\nExperienced working in global teams across industries\n\n\n\n\n\n👉 About Me: Learn more about my background, interests, and goals\n👉 Projects: See highlights of my academic and professional projects\n👉 Resume: View or download my professional resume\n👉 Contact: Let’s connect!"
+  },
+  {
+    "objectID": "index.html#my-academic-journey",
+    "href": "index.html#my-academic-journey",
+    "title": "Jean’s Website",
+    "section": "",
+    "text": "Missouri State UniversityBachelor of Science in General Business\n\n\n\n\n\nBoston UniversityMS in Applied Business Analytics\n\n\n\n\n📊 Data Analytics & Visualization\nPython, R, SQL, Tableau, Power BI\n\n🧠 Strategic Thinking & Business Insight\nCombining analysis with market understanding\n\n⚙️ Process Optimization & Automation\nFrom Excel Power Query to cloud-based pipelines\n\n🌍 Cross-Cultural Collaboration\nExperienced working in global teams across industries"
+  },
+  {
+    "objectID": "index.html#explore-my-work",
+    "href": "index.html#explore-my-work",
+    "title": "Jean’s Website",
+    "section": "",
+    "text": "👉 About Me: Learn more about my background, interests, and goals\n👉 Projects: See highlights of my academic and professional projects\n👉 Resume: View or download my professional resume\n👉 Contact: Let’s connect!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a passionate Business Analyst with a strong enthusiasm for uncovering data-driven insights and a knack for strategic thinking.\nCurrently pursuing a Master of Science in Applied Business Analytics at Boston University, I’m sharpening my skills in transforming complex datasets into actionable solutions that drive meaningful business outcomes."
+  },
+  {
+    "objectID": "about.html#hello-im-jean",
+    "href": "about.html#hello-im-jean",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a passionate Business Analyst with a strong enthusiasm for uncovering data-driven insights and a knack for strategic thinking.\nCurrently pursuing a Master of Science in Applied Business Analytics at Boston University, I’m sharpening my skills in transforming complex datasets into actionable solutions that drive meaningful business outcomes."
+  },
+  {
+    "objectID": "about.html#what-i-bring-to-the-table",
+    "href": "about.html#what-i-bring-to-the-table",
+    "title": "About Me",
+    "section": "💡 What I Bring to the Table",
+    "text": "💡 What I Bring to the Table\nWith hands-on experience across industries — from FMCG and banking to AI — I have contributed to:\n\n📊 Data analysis & visualization (SQL, Python, R, Power BI, Tableau)\n\n📈 Market research & strategic planning\n\n⚙️ Process optimization & automation\n\n☁️ Cloud-based analytics (AWS)\n\nThese experiences have taught me how to navigate dynamic environments, balance analytical precision with creative problem-solving, and communicate insights that influence decision-makers."
+  },
+  {
+    "objectID": "about.html#my-career-goal",
+    "href": "about.html#my-career-goal",
+    "title": "About Me",
+    "section": "🎯 My Career Goal",
+    "text": "🎯 My Career Goal\nMy goal is to bridge the gap between data and decision-making, empowering organizations to achieve their strategic objectives through informed insights.\nI thrive in collaborative, forward-thinking teams, and I’m especially excited about projects that use data to tackle real-world challenges in business, sustainability, and innovation."
+  },
+  {
+    "objectID": "about.html#lets-connect",
+    "href": "about.html#lets-connect",
+    "title": "About Me",
+    "section": "🤝 Let’s Connect",
+    "text": "🤝 Let’s Connect\nI’m always open to conversations, collaborations, and new opportunities.\nFeel free to reach out on my contact page or connect with me on LinkedIn.\n\n“Turning data into clarity, and clarity into action.”"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A curated selection of my major academic and professional projects in data analytics, product development, and innovation.\n\n\n\nDuration: Nov 2022 – Jun 2023\nTech Used: R Studio, Excel, Clustering Analysis\nAwards: 🏆 2nd Prize – 9th ‘Internet+’ Innovation Competition\nPublication: 📘 Tourism and Photography (2023)\n\nDeveloped a virtual classroom focused on VR/AR-enhanced teaching of Red Tourism history. Applied R for data visualization and clustering, designed user feedback tracking in Excel, and co-authored a research paper on the commercial application of VR in education.\n\n\n\n\n\nDuration: Jun 2023 – Aug 2023\nTech Used: SQL, Python (Pandas, NumPy), ML\n\nParticipated in a supply chain digitization initiative, categorizing product test data using SQL and applying internal network data for ML-based automation. Also analyzed experimental data from over 10 product types and designed qualification standards to optimize pass rates.\n\n\n\n\n\nDuration: Jun 2021 – Aug 2021\nTech Used: R Studio, Power BI, AWS, Excel\n\nConducted field research and cleaned large-scale market data. Used R Studio to create visualizations, built business intelligence dashboards in Power BI, and stored data securely using AWS cloud services. Supported personalized product development based on client feedback.\n\n\n\n\n\nDuration: Jul 2022 – Aug 2022\nTech Used: Excel (Power Query), RFID, LPR\n\nHelped optimize traffic congestion by contributing to the ETC (Electronic Toll Collection) project. Used RFID transponders and License Plate Recognition (LPR) to enable seamless toll collection. Analyzed customer data in Excel to improve targeting of banking services."
+  },
+  {
+    "objectID": "projects.html#projects-showcase",
+    "href": "projects.html#projects-showcase",
+    "title": "Projects",
+    "section": "",
+    "text": "A curated selection of my major academic and professional projects in data analytics, product development, and innovation.\n\n\n\nDuration: Nov 2022 – Jun 2023\nTech Used: R Studio, Excel, Clustering Analysis\nAwards: 🏆 2nd Prize – 9th ‘Internet+’ Innovation Competition\nPublication: 📘 Tourism and Photography (2023)\n\nDeveloped a virtual classroom focused on VR/AR-enhanced teaching of Red Tourism history. Applied R for data visualization and clustering, designed user feedback tracking in Excel, and co-authored a research paper on the commercial application of VR in education.\n\n\n\n\n\nDuration: Jun 2023 – Aug 2023\nTech Used: SQL, Python (Pandas, NumPy), ML\n\nParticipated in a supply chain digitization initiative, categorizing product test data using SQL and applying internal network data for ML-based automation. Also analyzed experimental data from over 10 product types and designed qualification standards to optimize pass rates.\n\n\n\n\n\nDuration: Jun 2021 – Aug 2021\nTech Used: R Studio, Power BI, AWS, Excel\n\nConducted field research and cleaned large-scale market data. Used R Studio to create visualizations, built business intelligence dashboards in Power BI, and stored data securely using AWS cloud services. Supported personalized product development based on client feedback.\n\n\n\n\n\nDuration: Jul 2022 – Aug 2022\nTech Used: Excel (Power Query), RFID, LPR\n\nHelped optimize traffic congestion by contributing to the ETC (Electronic Toll Collection) project. Used RFID transponders and License Plate Recognition (LPR) to enable seamless toll collection. Analyzed customer data in Excel to improve targeting of banking services."
+  },
+  {
+    "objectID": "projects.html#want-to-see-more",
+    "href": "projects.html#want-to-see-more",
+    "title": "Projects",
+    "section": "🛠️ Want to see more?",
+    "text": "🛠️ Want to see more?\nIf you’d like to explore source code, business reports, or project visuals, feel free to reach out via the contact page or check out my LinkedIn profile."
   }
 ]
