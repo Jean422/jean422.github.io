@@ -1,9 +1,48 @@
 ---
 title: "Jean's Website"
-resources:
-    - .nojekyll
+format: html
+page-layout: full
 ---
 
-This is a Quarto website.
+# 👋 Welcome to My Personal Website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I’m **Jean Cui**, a Business Analyst passionate about transforming data into strategic insights.
+
+I'm currently pursuing a **Master of Science in Applied Business Analytics** at **Boston University**, where I focus on solving real-world problems through data storytelling, machine learning, and business strategy.
+
+---
+
+## 🎓 My Academic Journey
+
+<div style="display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+
+<div style="text-align: center;">
+  <img src="Missouri.jpg" alt="Missouri State University" style="width: 280px; height: auto; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <p><strong>Missouri State University</strong><br>Bachelor of Science in General Business</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="boston.jpg" alt="Boston University" style="width: 280px; height: auto; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <p><strong>Boston University</strong><br>MS in Applied Business Analytics</p>
+</div>
+
+</div>
+
+- 📊 **Data Analytics & Visualization**  
+  Python, R, SQL, Tableau, Power BI  
+- 🧠 **Strategic Thinking & Business Insight**  
+  Combining analysis with market understanding  
+- ⚙️ **Process Optimization & Automation**  
+  From Excel Power Query to cloud-based pipelines  
+- 🌍 **Cross-Cultural Collaboration**  
+  Experienced working in global teams across industries
+
+---
+
+## 🔍 Explore My Work
+
+👉 [About Me](about.qmd): Learn more about my background, interests, and goals  
+👉 [Projects](projects.qmd): See highlights of my academic and professional projects  
+👉 [Resume](resume.qmd): View or download my professional resume  
+👉 [Contact](contact.qmd): Let’s connect!
+

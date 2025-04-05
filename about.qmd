@@ -1,5 +1,43 @@
 ---
-title: "About"
+title: "About Me"
+format: html
+page-layout: full
 ---
 
-About this site
+## 👋 Hello, I'm Jean!
+
+I’m a passionate Business Analyst with a strong enthusiasm for uncovering data-driven insights and a knack for strategic thinking.
+
+Currently pursuing a **Master of Science in Applied Business Analytics** at **Boston University**, I’m sharpening my skills in transforming complex datasets into actionable solutions that drive meaningful business outcomes.
+
+---
+
+## 💡 What I Bring to the Table
+
+With hands-on experience across industries — from FMCG and banking to AI — I have contributed to:
+
+- 📊 Data analysis & visualization (SQL, Python, R, Power BI, Tableau)  
+- 📈 Market research & strategic planning  
+- ⚙️ Process optimization & automation  
+- ☁️ Cloud-based analytics (AWS)
+
+These experiences have taught me how to navigate dynamic environments, balance analytical precision with creative problem-solving, and communicate insights that influence decision-makers.
+
+---
+
+## 🎯 My Career Goal
+
+My goal is to **bridge the gap between data and decision-making**, empowering organizations to achieve their strategic objectives through informed insights.
+
+I thrive in collaborative, forward-thinking teams, and I’m especially excited about projects that use data to tackle real-world challenges in business, sustainability, and innovation.
+
+---
+
+## 🤝 Let's Connect
+
+I’m always open to conversations, collaborations, and new opportunities.
+
+Feel free to [reach out on my contact page](contact.qmd) or connect with me on [LinkedIn](https://www.linkedin.com/in/jinyi-cui-3ab06833a).
+
+> _"Turning data into clarity, and clarity into action."_  
+

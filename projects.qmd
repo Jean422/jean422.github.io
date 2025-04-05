@@ -1,0 +1,49 @@
+---
+title: "Projects"
+format: html
+page-layout: full
+---
+
+## 🚀 Projects Showcase
+
+A curated selection of my major academic and professional projects in data analytics, product development, and innovation.
+
+---
+
+### 🎓 VR/AR Virtual Classroom for History Education  
+**Duration**: Nov 2022 – Jun 2023  
+**Tech Used**: R Studio, Excel, Clustering Analysis  
+**Awards**: 🏆 2nd Prize – 9th ‘Internet+’ Innovation Competition  
+**Publication**: 📘 *Tourism and Photography* (2023)
+
+> Developed a virtual classroom focused on VR/AR-enhanced teaching of Red Tourism history. Applied R for data visualization and clustering, designed user feedback tracking in Excel, and co-authored a research paper on the commercial application of VR in education.
+
+---
+
+### 🧪 Unilever Supply Chain Data Automation  
+**Duration**: Jun 2023 – Aug 2023  
+**Tech Used**: SQL, Python (Pandas, NumPy), ML  
+
+> Participated in a supply chain digitization initiative, categorizing product test data using SQL and applying internal network data for ML-based automation. Also analyzed experimental data from over 10 product types and designed qualification standards to optimize pass rates.
+
+---
+
+### 📊 Market Insights Dashboard at iFLYTEK  
+**Duration**: Jun 2021 – Aug 2021  
+**Tech Used**: R Studio, Power BI, AWS, Excel  
+
+> Conducted field research and cleaned large-scale market data. Used R Studio to create visualizations, built business intelligence dashboards in Power BI, and stored data securely using AWS cloud services. Supported personalized product development based on client feedback.
+
+---
+
+### 🚗 RFID-Enabled Toll System (ETC) @ Bank of Communications  
+**Duration**: Jul 2022 – Aug 2022  
+**Tech Used**: Excel (Power Query), RFID, LPR  
+
+> Helped optimize traffic congestion by contributing to the ETC (Electronic Toll Collection) project. Used RFID transponders and License Plate Recognition (LPR) to enable seamless toll collection. Analyzed customer data in Excel to improve targeting of banking services.
+
+---
+
+## 🛠️ Want to see more?
+
+If you'd like to explore source code, business reports, or project visuals, feel free to [reach out via the contact page](contact.qmd) or check out my [LinkedIn profile](https://www.linkedin.com/in/jinyi-cui-3ab06833a).

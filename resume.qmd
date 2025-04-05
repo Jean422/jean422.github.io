@@ -1,3 +1,74 @@
 ---
-title: Jean's Awesome Resume
+title: Jean's Resume
+format: html
+page-layout: full
 ---
+
+
+## 📄 Download Resume PDF
+
+[Download My Resume (PDF)](Jinyi%20Cui-resume%202025%20Spring.doc){.btn .btn-primary target="_blank"}
+
+---
+
+## 🎓 Education
+
+**Boston University**  
+_M.S. in Applied Business Analytics_ · GPA: 3.68  
+📍 Boston, MA · Sep 2024 – Present
+
+**Missouri State University**  
+_B.S. in General Business_  
+📍 Springfield, MO · Graduated Jun 2024  
+- Scholarship Recipient (2021)
+
+---
+
+## 💼 Data Analytics Experience
+
+**Unilever** – *Quality Data Detection Intern*  
+📍 Hefei, China · Jun 2023 – Aug 2023  
+- Used SQL to analyze and categorize product data for automating supply chain processes.  
+- Leveraged Python (Pandas, NumPy) to analyze experimental composition data and created standardized qualification metrics.
+
+**Bank of Communications** – *Marketing Management Intern*  
+📍 Hefei, China · Jul 2022 – Aug 2022  
+- Analyzed customer data using Excel Power Query.  
+- Contributed to the ETC project leveraging RFID and plate recognition tech for smart tolling.
+
+**iFLYTEK Co., Ltd.** – *Data Analysis Specialist Intern*  
+📍 Hefei, China · Jun 2021 – Aug 2021  
+- Conducted market research and created Power BI reports from R Studio visualizations.  
+- Supported new product development with AWS-based data analytics.
+
+---
+
+## 📚 Academic Project
+
+**VR/AR New History Teaching Pioneers**  
+_Nov 2022 – Jun 2023_  
+- Won 2nd Prize in 9th 'Internet+' Innovation Competition.  
+- Published a paper on VR tourism in _Tourism and Photography (2023)_.  
+- Used R for clustering analysis and Excel for project tracking and user feedback.
+
+---
+
+## 👩‍🏫 Leadership & Involvement
+
+**Teaching Assistant**  
+_Boston University · Feb 2025 – Present_  
+- TA for Quantitative & Qualitative Decision-Making.  
+- Supported students with grading, office hours, and simulation-based research.
+
+**BUCSSA – Marketing Board Member**  
+_Oct 2024 – Present_  
+- Secured $2,000+ sponsorship for flagship events (800+ attendees).  
+- Led social media campaigns reaching 5,000+ users and grew followers by 30%.
+
+---
+
+## 🔧 Skills & Tools
+
+- **Languages:** Python, SQL, R  
+- **Tools:** Excel, PowerPoint, Tableau, Power BI, AWS, MATLAB, CapCut  
+- **Tech:** Machine Learning, Business Intelligence, Data Visualization  
